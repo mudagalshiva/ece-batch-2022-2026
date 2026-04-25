@@ -1,1 +1,0 @@
-import{j as e,m as o}from"./index-CPs1KTSj.js";function n({children:t,className:i=""}){return e.jsx(o.div,{className:i,initial:{opacity:0,y:40},whileInView:{opacity:1,y:0},viewport:{once:!0,amount:.2},transition:{duration:.8,ease:"easeOut"},children:t})}export{n as R};
